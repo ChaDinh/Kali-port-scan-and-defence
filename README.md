@@ -1,5 +1,4 @@
 # Kali-port-scan-and-defence
-A kali program to detect malware open port for cyber security
 The solution leverages Kali Linux as the primary environment for both attack simulation and monitoring. A combination of offensive tools such as Metasploit and Netcat, along with simple Bash scripts, is used to simulate malware behavior and detect anomalies in a network environment. This setup is cost-effective and easy to implement, while maintaining flexibility for integration with other security measures. 
 
 Key Components 
